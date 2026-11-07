@@ -1,0 +1,9 @@
+PYTHON CONDITIONAL STATEMENTS AND LOOPS
+
+Conditional statements allow a program to make decisions. Python uses if, elif and else keywords. An if block runs when its condition is true. An elif block checks another condition, and an else block runs when earlier conditions are false.
+
+Comparison operators include ==, !=, >, <, >= and <=. Logical operators include and, or and not.
+
+Loops repeat a block of code. A for loop iterates over items in a sequence, such as a list or string. A while loop repeats as long as its condition remains true. The break statement exits a loop, while continue skips to the next iteration.
+
+Indentation defines the body of conditional statements and loops in Python.

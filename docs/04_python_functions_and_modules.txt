@@ -1,0 +1,11 @@
+PYTHON FUNCTIONS AND MODULES
+
+A function is a reusable block of code that performs a particular task. A function is defined with the def keyword, followed by its name and parentheses. A function can accept parameters and can return a value using the return statement.
+
+For example:
+def add(a, b):
+    return a + b
+
+The function call add(2, 3) returns 5. Parameters are names listed in a function definition; arguments are the values supplied when the function is called.
+
+A module is a Python file containing code such as functions, variables or classes that can be reused in another program. The import statement makes a module available. Python includes standard library modules, and developers can install additional packages.

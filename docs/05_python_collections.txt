@@ -1,0 +1,11 @@
+PYTHON LISTS, TUPLES AND DICTIONARIES
+
+A list is an ordered and mutable collection. Lists are written with square brackets. Items can be accessed by index, and list methods such as append() can add items.
+
+A tuple is an ordered and immutable collection. Tuples are commonly written with parentheses. Because tuples are immutable, their elements cannot be reassigned after creation.
+
+A dictionary stores data as key-value pairs. Dictionaries are written with curly braces. A value can be accessed using its key, and new key-value pairs can be added or existing values updated.
+
+A set stores unique elements and does not provide positional indexing. Sets are useful when duplicate values should be removed or membership should be checked.
+
+Lists, tuples, dictionaries and sets are built-in Python collection types. A function can accept these collections as arguments and return them as results.

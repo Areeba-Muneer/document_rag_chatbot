@@ -1,0 +1,15 @@
+PYTHON VARIABLES AND DATA TYPES
+
+A variable is a name that refers to a value. In Python, a variable is created when a value is assigned to it. For example, name = "Sara" assigns a string to the variable name, and age = 20 assigns an integer to age.
+
+Common built-in Python data types include:
+- int: whole numbers, such as 10
+- float: decimal numbers, such as 3.14
+- str: text, such as "Hello"
+- bool: logical values True and False
+- list: an ordered, mutable collection
+- tuple: an ordered, immutable collection
+- dict: a collection of key-value pairs
+- set: an unordered collection of unique elements
+
+The type() function can be used to inspect the type of a value. Python is dynamically typed, so a variable name can be assigned values of different types at different points in a program.

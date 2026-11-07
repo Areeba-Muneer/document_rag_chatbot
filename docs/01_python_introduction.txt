@@ -1,0 +1,7 @@
+PYTHON INTRODUCTION
+
+Python is a high-level, general-purpose programming language. It is known for readable syntax and a large standard library. Python is commonly used for automation, web development, data analysis, artificial intelligence, scientific computing, and scripting.
+
+A Python program is usually stored in a file with the .py extension. Python code is executed by a Python interpreter. Statements are commonly written one per line, and indentation is used to define code blocks.
+
+A comment begins with the hash character. Comments help explain code and are ignored by the interpreter. The print() function displays output. The input() function reads text entered by a user.
